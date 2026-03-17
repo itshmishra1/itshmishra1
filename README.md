@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=star&color=0:000000,30:0a0a2e,60:0d1b4b,100:1a237e&height=240&section=header&text=H.%20MISHRA&fontSize=72&fontColor=ffffff&fontAlignY=50&desc=Full%20Stack%20Developer%20%E2%80%94%20Exploring%20the%20universe%2C%20one%20commit%20at%20a%20time&descSize=15&descAlignY=68&animation=twinkling" width="100%"/>
-
-</div>
-
 <br/>
 
 <div align="center">
@@ -31,25 +27,6 @@
 ---
 
 <br/>
-
-<div align="center">
-
-```
-        *    .  *       .              *        .       *
-   .                *        .    *        .
-        .    *           ██╗  ██╗███╗   ███╗           *    .
-  *          .           ██║  ██║████╗ ████║      .
-       .                 ███████║██╔████╔██║  *
-   *       *    .        ██╔══██║██║╚██╔╝██║         .    *
-       .                 ██║  ██║██║ ╚═╝ ██║   .
-  .         *    .       ╚═╝  ╚═╝╚═╝     ╚═╝        *
-        .          *           MISHRA          .          .
-   *        .           Full Stack Developer        *
-        .        *    .              .        .
-```
-
-</div>
-
 <br/>
 
 ---
@@ -194,17 +171,17 @@ print(me.philosophy())
 
 ```
  ╭────────────────────────────────────────────────────────────────╮
- │                                                                  │
- │   🌌  Classified. Under construction. Launching soon.           │
- │                                                                  │
- │   These aren't just projects.                                   │
- │   They're missions.                                             │
- │                                                                  │
+ │                                                                │
+ │   🌌  Classified. Under construction. Launching soon.          │
+ │                                                                │
+ │   These aren't just projects.                                  │
+ │   They're missions.                                            │
+ │                                                                │
  │   Every great space program started with a blank launchpad.    │
  │   Mine is being built right now. 🚀                            │
- │                                                                  │
+ │                                                                │
  │   T-minus: unknown. But it's coming.                           │
- │                                                                  │
+ │                                                                │
  ╰────────────────────────────────────────────────────────────────╯
 ```
 
@@ -242,17 +219,6 @@ print(me.philosophy())
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-0a0a2e?style=for-the-badge&logo=gmail&logoColor=f28b82&label=Transmit)](mailto:your@email.com)
 
-<br/><br/>
-
-```
-  ·  ·  ·  —  —  —  ·  ·  ·      (SOS from deep space)
-
-  If you're building something that matters —
-  something bold, something real —
-  I want to be part of it.
-
-  Transmission open. 📡
-```
 
 <br/>
 
